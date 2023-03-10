@@ -9,4 +9,4 @@ Run nyc.py
 streamlit run nyc.py --server.enableCORS false --server.enableXsrfProtection false
 
 Run uber.py
-streamlit run uber.py --server.enableCORS false --server.enableXsrfProtection false
+streamlit run netflix.py --server.enableCORS false --server.enableXsrfProtection false

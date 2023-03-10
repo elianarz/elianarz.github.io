@@ -7,3 +7,6 @@ source streamlit-env/bin/activate
 Run nyc.py
 
 streamlit run nyc.py --server.enableCORS false --server.enableXsrfProtection false
+
+Run uber.py
+streamlit run uber.py --server.enableCORS false --server.enableXsrfProtection false
